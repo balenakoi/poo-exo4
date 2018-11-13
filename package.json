@@ -1,8 +1,26 @@
-[
-    {"id":1,"name":"balen", "age":26, "city":"Lille"},
-    {"id":2,"name":"halder", "age":24, "city":"qaladze"},
-    {"id":3,"name":"jegr", "age":23, "city":"ranya"},
-    {"id":4,"name":"bakha", "age":28, "city":"hajyawa"}
+[{
+        "id": 1,
+        "name": "balen",
+        "age": 26,
+        "from": "Lille"
+    },
+    {
+        "id": 2,
+        "name": "halder",
+        "age": 15,
+        "from": "qaladze"
+    },
+    {
+        "id": 3,
+        "name": "jegr",
+        "age": 30,
+        "from": "ranya"
+    },
+    {
+        "id": 4,
+        "name": "bakha",
+        "age": 40,
+        "from": "hajyawa"
+    }
 
 ]
-       
